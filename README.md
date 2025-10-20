@@ -1,17 +1,16 @@
 # Summarize Text from YouTube or Website (Streamlit + LangChain + Groq)
 
 ## Overview
-A minimal Streamlit app that takes a **YouTube** or **website** URL, loads the content, and generates a **~300-word summary** using a Groq-hosted LLM via LangChain. Enter your **Groq API key** in the sidebar, paste a URL, and click **“Summarize the Content”**. :contentReference[oaicite:0]{index=0}
+A minimal Streamlit app that takes a **YouTube** or **website** URL, loads the content, and generates a **~300-word summary** using a Groq-hosted LLM via LangChain. Enter your **Groq API key** in the sidebar, paste a URL, and click **“Summarize the Content”**
 
 ---
 
 ## Screenshots
 
-![](screenshots/01-home.png)
-![](screenshots/02-url.png)
-![](screenshots/03-youtube.png)
-![](screenshots/04-website.png)
-![](screenshots/05-summary.png)
+![](Screenshots/1.png)
+![](Screenshots/2.png)
+![](Screenshots/3.png)
+![](Screenshots/3.png)
 
 > Put PNGs in a top-level `screenshots/` folder (use simple names like above).
 
@@ -56,4 +55,5 @@ Streamlit · LangChain (`ChatGroq`, `load_summarize_chain`, `PromptTemplate`, `D
 
 ## License
 MIT
+
 
