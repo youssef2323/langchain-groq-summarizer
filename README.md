@@ -7,7 +7,7 @@ A minimal Streamlit app that takes a **YouTube** or **website** URL, loads the c
 
 ## Screenshots
 
-![](Screenshots/.png)
+![](Screenshots/1.png)
 ![](Screenshots/2.png)
 ![](Screenshots/3.png)
 ![](Screenshots/3.png)
@@ -55,6 +55,7 @@ Streamlit · LangChain (`ChatGroq`, `load_summarize_chain`, `PromptTemplate`, `D
 
 ## License
 MIT
+
 
 
 
