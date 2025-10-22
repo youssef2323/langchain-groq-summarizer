@@ -12,7 +12,6 @@ A minimal Streamlit app that takes a **YouTube** or **website** URL, loads the c
 ![](Screenshots/3.png)
 ![](Screenshots/3.png)
 
-> Put PNGs in a top-level `screenshots/` folder (use simple names like above).
 
 ---
 
@@ -55,6 +54,7 @@ Streamlit · LangChain (`ChatGroq`, `load_summarize_chain`, `PromptTemplate`, `D
 
 ## License
 MIT
+
 
 
 
